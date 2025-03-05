@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\Todolist.csproj": {}
+    "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\CalculatorApp\\CalculatorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\Todolist.csproj": {
+    "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\CalculatorApp\\CalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\Todolist.csproj",
-        "projectName": "Todolist",
-        "projectPath": "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\Todolist.csproj",
+        "projectUniqueName": "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\CalculatorApp\\CalculatorApp.csproj",
+        "projectName": "CalculatorApp",
+        "projectPath": "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\CalculatorApp\\CalculatorApp.csproj",
         "packagesPath": "C:\\Users\\AdminAssist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\obj\\",
+        "outputPath": "C:\\Users\\AdminAssist\\OneDrive - North Wall CDP\\Desktop\\Bens Work\\Todlo_program\\CalculatorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

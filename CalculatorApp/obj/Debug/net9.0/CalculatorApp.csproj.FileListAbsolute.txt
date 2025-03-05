@@ -1,0 +1,15 @@
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\AdminAssist\OneDrive - North Wall CDP\Desktop\Bens Work\Todlo_program\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll

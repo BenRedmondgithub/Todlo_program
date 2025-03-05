@@ -1,9 +1,9 @@
 ﻿Console.WriteLine("Hello!");
 Console.WriteLine("Input the first number:");
-int number1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(""+number1);
 
+var firstAsText = Console.ReadLine();
+var number1 = int.Parse(firstAsText);
 
 Console.WriteLine("Input the second number:");
-int number2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(""+number2);
+var secondAsText = Console.ReadLine();
+var number2 = int.Parse(firstAsText);

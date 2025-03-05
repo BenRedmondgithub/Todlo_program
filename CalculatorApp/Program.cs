@@ -17,25 +17,29 @@ var Choice = Console.ReadLine();
 if(Choice == "A" || Choice =="a")
 {
    var sum = number1 + number2;
-   Console.WriteLine(number1 + " + " + number2 + " = " + sum);
+   PrintFinalEquation(number1, number2, sum, " + ");
 }
 
 else if(Choice == "S" || Choice =="s")
 {
    var different = number1 - number2;
-   Console.WriteLine(number1 + " - " + number2 + " = " + different);
+   PrintFinalEquation(number1, number2, different, " - ");
 }
 
 else if(Choice == "M" ||  Choice =="m")
 {
     var multip = number1 * number2;
-    Console.WriteLine(number1 + " * " + number2 + " = " + multip);
-
+    PrintFinalEquation(number1, number2, multip, " * ");
 }
 
 else
 {
     Console.WriteLine("Invalid Choice!");
+}
+
+void PrintFinalEquation(int number1, int number2, int result, string @operator) 
+{
+    Console.WriteLine(number1 + "" + @operator + "" + number2 + " = " + result);
 }
 
 Console.WriteLine("Press any key to close");

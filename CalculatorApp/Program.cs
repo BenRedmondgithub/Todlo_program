@@ -28,7 +28,7 @@ else if(EqualsCasrInsensitive(Choice, "S"))
    PrintFinalEquation(number1, number2, different, " - ");
 }
 
-else if(EqualsCasrInsensitive(Choice, "M"))
+else if(EqualsCasrInsensitive(Choice, "M5"))
 {
     var multip = number1 * number2;
     PrintFinalEquation(number1, number2, multip, " * ");

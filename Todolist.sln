@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todolist", "Todolist.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "CalculatorApp\CalculatorApp.csproj", "{DBAEE57E-EE53-4E71-95FB-475C321EFE08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester", "tester\tester.csproj", "{2A2515CD-08DD-4049-92CA-AB496A3F1992}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DBAEE57E-EE53-4E71-95FB-475C321EFE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBAEE57E-EE53-4E71-95FB-475C321EFE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBAEE57E-EE53-4E71-95FB-475C321EFE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2515CD-08DD-4049-92CA-AB496A3F1992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2515CD-08DD-4049-92CA-AB496A3F1992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2515CD-08DD-4049-92CA-AB496A3F1992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2515CD-08DD-4049-92CA-AB496A3F1992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
